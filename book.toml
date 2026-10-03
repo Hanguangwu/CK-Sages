@@ -2,7 +2,7 @@
 authors = ["Hanguangwu"]
 language = "zh-cn"
 src = "src"
-title = "Mdbook Template"
+title = "儒林聖賢集"
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
